@@ -1,0 +1,10 @@
+baseURL: http://accelerate-experience.com
+disablePathToLower: true
+languageCode: en-us
+title: Cody Lee | Software, Startups and more
+theme: jeffprod
+permalinks:
+  post: "/:year/:filename"
+taxonomies:
+  tag: "tags"
+  archive: "archives"
