@@ -18,6 +18,6 @@ deploy:
   keep-history: true
   on:
     branch: master
-  local-dir: docs
+  local-dir: public
 after_success:
-  - cd docs && hugo && mv docs/* .
+  - cd public && hugo && mv public/* .
