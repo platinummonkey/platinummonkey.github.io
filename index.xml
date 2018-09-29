@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cody Lee | Software, Startups and more</title>
+    <link>http://accelerate-experience.com/</link>
+    <description>Recent content on Cody Lee | Software, Startups and more</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Nov 2015 08:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://accelerate-experience.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working Smarter is Not a Substitute for Hard Work</title>
+      <link>http://accelerate-experience.com/smarter-and-harder/</link>
+      <pubDate>Mon, 30 Nov 2015 08:00:00 +0000</pubDate>
+      
+      <guid>http://accelerate-experience.com/smarter-and-harder/</guid>
+      <description>It never fails, you&amp;rsquo;re working hard, busting your rear to meet all the demands put on you and your team, and inevetibitaly your manager, co-worker or family member speaks with resounding revolition, &amp;ldquo;work smarter, not harder.&amp;rdquo;
+This is one of the worst advisements you can accept. Let&amp;rsquo;s take a weak moment and reflect how most (including my former self at one time) thought how this phrase perfectly described an wonderful notion.</description>
+    </item>
+    
+    <item>
+      <title>SCALE12x: Flask with a Django Style Twist</title>
+      <link>http://accelerate-experience.com/scale12x-flask-with-a-django-style-twist/</link>
+      <pubDate>Mon, 24 Feb 2014 14:01:05 +0000</pubDate>
+      
+      <guid>http://accelerate-experience.com/scale12x-flask-with-a-django-style-twist/</guid>
+      <description>Django is great if you like the ORM, relational databases, and serving public facing websites. If you don’t intend to stray too far from the built-ins; keep Django, otherwise you should consider Flask. Flask is a flexible micro-framework with no enforced ORM so you can incorporate your own ORM, OGM, or unique object manager. If you still like the syntactic sugar and organization of Django, don’t fear, you can keep it with just a little bit of work.</description>
+    </item>
+    
+  </channel>
+</rss>

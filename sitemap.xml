@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://accelerate-experience.com/smarter-and-harder/</loc>
+    <lastmod>2015-11-30T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://accelerate-experience.com/scale12x-flask-with-a-django-style-twist/</loc>
+    <lastmod>2014-02-24T14:01:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://accelerate-experience.com/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://accelerate-experience.com/</loc>
+    <lastmod>2015-11-30T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://accelerate-experience.com/post/</loc>
+    <lastmod>2015-11-30T08:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://accelerate-experience.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
