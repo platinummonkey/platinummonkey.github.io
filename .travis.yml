@@ -10,14 +10,15 @@ script:
   - hugo
 branches:
   only:
-    - master
+    - source
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
+  target-branch: master
   on:
-    branch: master
+    branch: source
   local-dir: public
 after_success:
   - cd public && hugo && mv public/* .
